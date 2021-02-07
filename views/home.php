@@ -127,8 +127,7 @@
         <div class="freshman_ori">
             <h2>Freshman Orientation</h2>
             <h3>Tuesdays 11:00am - 11:50am</h3>
-            <p>Zoom link below</p>
-            <a class="link" href="https://morehouse.zoom.us/j/4152159280">https://morehouse.zoom.us/j/4152159280</a>
+            <h4>The final day of freshman orientation is April 26<h4> 
         </div>
     </div>
     <footer>
