@@ -360,12 +360,13 @@
 
 .freshman_ori p {
     font-family:Arial, Helvetica, sans-serif;
-
+    text-align: center;
 }
 
 .freshman_ori h3 {
     margin: 0;
     color: #840028;
+    text-align: center;
 }
 
 .freshman_ori h2 {
@@ -412,4 +413,76 @@
     }
 }
 
+/* Fixes President Thomas's padding under the learn more issue  */
 
+@media only screen and (min-width : 750px) {
+
+    .president_thomas {
+        padding-top: .5em;
+        margin-bottom: 12em;
+    }
+}
+
+@media only screen and (max-width : 759px) {
+
+    .president_thomas {
+        padding-bottom: 2em;
+    }
+}
+
+/* Fixes the text not being center on big screnns issue */
+
+@media only screen and (min-width: 750px) and (max-width: 899px){
+
+    .freshman_ori h2 {
+        position: relative;
+        top: 1em;
+    }
+
+    .freshman_ori h3 {
+        position: relative;
+        top: 1em;
+    }
+
+    .freshman_ori h4 {
+        position: relative;
+        top: 1em;
+    }
+}
+
+@media only screen and (min-width: 900px) and (max-width: 1289px){
+
+    .freshman_ori h2 {
+        position: relative;
+        top: 1em;
+    }
+
+    .freshman_ori h3 {
+        position: relative;
+        top: 1em;
+    }
+
+    .freshman_ori h4 {
+        position: relative;
+        top: 1em;
+    }
+}
+
+@media only screen and (min-width : 1290px) {
+     
+    .freshman_ori h2 {
+        position: relative;
+        top: 2em;
+    }
+
+
+    .freshman_ori h3 {
+        position: relative;
+        top: 3em;
+    }
+
+    .freshman_ori h4 {
+        position: relative;
+        top: 4em;
+    }
+}

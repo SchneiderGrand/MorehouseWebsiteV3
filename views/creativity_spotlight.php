@@ -29,6 +29,9 @@
             </div>
         </div>
     </div>
+    
+    <!--   Student Spotlight names and stuff go down here                  -->   
+
     <div class="student_businesses_list">
         <h2>Student Owned Businesses</h2>
         <div class="student_business_container">
@@ -38,6 +41,7 @@
             </div>
             <a href="https://marleyentertainment.square.site/s/shop" class="student_business_btn">Visit</a>
         </div>
+
         <div class="student_business_container">
             <div class="student_business_info">
                 <h3>All Black Everything Collection</h3>
@@ -45,7 +49,39 @@
             </div>
             <a href="https://www.shopabecollection.com/collections/tees" class="student_business_btn">Visit</a>
         </div>
+
+        <div class="student_business_container">
+            <div class="student_business_info">
+                <h3>Morehouse College Fencing</h3>
+                <h4>http://morehousefencers.com</h4>
+                <p>Instagram: @MorehouseFencers</p>
+            </div>
+            <a href="http://morehousefencers.com" class="student_business_btn">Visit</a>
+        </div>
+
+        <div class="student_business_container">
+            <div class="student_business_info">
+                <h3>Buka's Apparel</h3>
+                <h4>https://bukasapparel.com</h4>
+                <p> Instagram: @Bukasapparel </p>
+            </div>
+            <a href="https://bukasapparel.com" class="student_business_btn">Visit</a>
+        </div>
+
+        <div class="student_business_container">
+            <div class="student_business_info">
+                <h3>Art by Kamahl</h3>
+                <h4>https://www.artbykamahl.com/</h4>
+                <p> Instagram: @ka_mahl</p>
+            </div>
+            <a href="https://www.artbykamahl.com/" class="student_business_btn">Visit</a>
+        </div>
+     
     </div>
+    
+            
+    
+
     <!-- 
     <div class="student_spotlight_list">
         <h2>Student Spotlight</h2>

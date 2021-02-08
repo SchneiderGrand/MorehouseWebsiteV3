@@ -38,8 +38,7 @@
                 <div class="google_cal">
         <h1>Academic Calendar</h1>
         <iframe src="https://calendar.google.com/calendar/embed?height=260&amp;wkst=1&amp;bgcolor=%23840028&amp;ctz=America%2FNew_York&amp;src=c2ZzZnJzd2ZAZ21haWwuY29t&amp;src=NmJmamlobWJrdTE4dWhic2ZsNWQzM2ozNjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23616161&amp;color=%23616161&amp;color=%23616161&amp;showTitle=0&amp;title=Morehouse%20" style="border:solid 2px #777" width="430" height="260" frameborder="0" scrolling="no"></iframe>
-        </div>
-        
+                </div>    
                 <div class="event_controller_container">
                     <a class="event_prev" onclick="">❮</a>
                     <a class="event_next" onclick="">❯</a>
@@ -127,8 +126,7 @@
         <div class="freshman_ori">
             <h2>Freshman Orientation</h2>
             <h3>Tuesdays 11:00am - 11:50am</h3>
-            <p>Zoom link below</p>
-            <a class="link" href="https://morehouse.zoom.us/j/4152159280">https://morehouse.zoom.us/j/4152159280</a>
+            <h4>The final day of freshman orientation is April 26<h4> 
         </div>
     </div>
     <footer>
