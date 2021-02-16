@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="../css/home.css" />
     <link rel="stylesheet" type="text/css" href="../css/home_page.css" />
+    <link rel="stylesheet" type="text/css" href="../css/tooltip.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Freshman Class of 2024</title>
 </head>
@@ -29,6 +30,7 @@
             <img src="../images/brotherhoodBonding.png" alt="Brotherhood Bonding Image">
             <div class="brotherhood_bonding_text">
                 <p>Brotherhood bonding is a platform where students have the opportunity to connect in a casual, virtual settting. These sessions occur weekly at 6pm EST on Monday and Wednesday. Join us!</p>
+        
             </div>
         </div>
     </div>

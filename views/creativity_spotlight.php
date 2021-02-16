@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="../css/home.css" />
     <link rel="stylesheet" type="text/css" href="../css/creativity_spotlight.css" />
+    <link rel="stylesheet" type="text/css" href="../css/tooltip.css" />
     <link rel="stylesheet" type="text/css" href="../css/schneider.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Creativity Spotlight</title>
@@ -38,6 +39,7 @@
             <div class="student_business_info">
                 <h3>Marley Entertainment</h3>
                 <h4>https://marleyentertainment.square.site</h4>
+                <p> Instagram: @marley.entertainment</p>
             </div>
             <a href="https://marleyentertainment.square.site/s/shop" class="student_business_btn">Visit</a>
         </div>
@@ -46,6 +48,7 @@
             <div class="student_business_info">
                 <h3>All Black Everything Collection</h3>
                 <h4>https://www.shopabecollection.com</h4>
+                <p> Instagram: @allblackeverythingcollection</p>
             </div>
             <a href="https://www.shopabecollection.com/collections/tees" class="student_business_btn">Visit</a>
         </div>
@@ -76,7 +79,43 @@
             </div>
             <a href="https://www.artbykamahl.com/" class="student_business_btn">Visit</a>
         </div>
+
+        <div class="student_business_container">
+            <div class="student_business_info">
+                <h3>Kieren Freeman Productions</h3>
+                <h4>kierenfreemanproductions.weebly.com/</h4>
+                <p> Instagram: @kmandraws</p>
+            </div>
+            <a href="kierenfreemanproductions.weebly.com/" class="student_business_btn">Visit</a>
+        </div>
+
+        <div class="student_business_container">
+            <div class="student_business_info">
+                <h3>Playing For Keeps</h3>
+                <h4>shoppfk.com</h4>
+                <p> Instagram: @playingforkeepsofficial</p>
+            </div>
+            <a href="shoppfk.com" class="student_business_btn">Visit</a>
+        </div>
+
+        <div class="student_business_container">
+            <div class="student_business_info">
+                <h3>Miles Edgeworth (Aaron)</h3>
+                <h4>Photography/Film/Poetry</h4>
+                <p> Instagram: @teddywiththe35mm</p>
+            </div>
+
+        </div>
      
+
+
+
+
+
+
+
+
+
     </div>
     
             
