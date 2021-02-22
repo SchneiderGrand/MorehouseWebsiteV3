@@ -25,21 +25,17 @@
                 <h3>Jabez Dailey</h3>
             </div>
             <div class="developer dev_left">
-                <img src="../images/local-file-not-found-480x488.png"/>
-                <h3>Schneider Grandpierre</h3>
-            </div>
-
-
-
-
-
-
-
-            <div class="developer dev_middle">
                 <img src="../images/davidColeman.png"/>
                 <h3>David Coleman</h3>
             </div>
+            <div class="developer dev_middle">
+                <img src="../images/local-file-not-found-480x488.png"/>
+                <h3>Schneider Grandpierre</h3>
+            </div>
         </div>
+ 
+    
+
     </div>
     
     <!--   Student Spotlight names and stuff go down here                  -->   
