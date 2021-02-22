@@ -24,6 +24,17 @@
                 <img src="../images/jabezDailey.png"/>
                 <h3>Jabez Dailey</h3>
             </div>
+            <div class="developer dev_left">
+                <img src="../images/local-file-not-found-480x488.png"/>
+                <h3>Schneider Grandpierre</h3>
+            </div>
+
+
+
+
+
+
+
             <div class="developer dev_middle">
                 <img src="../images/davidColeman.png"/>
                 <h3>David Coleman</h3>
@@ -70,7 +81,13 @@
             </div>
             <a href="https://bukasapparel.com" class="student_business_btn">Visit</a>
         </div>
-
+<!--          
+        <div class="student_business_desc_container">
+            <div class= "student_dec_info">
+            <p>Buka's apparel is a brand that was started to help propagate black culture worldwide. The name "Buka" means "Great", hence we want to show the greatness of black people through our apparel. We make hoodies, sweatshirts, and other apparel for HBCUS. We make sure our apparel carries a message, or tells a story. 5% of all our proceeds are donated to charity.</p> 
+             </div>
+        </div>
+</div>-->
         <div class="student_business_container">
             <div class="student_business_info">
                 <h3>Art by Kamahl</h3>
@@ -79,7 +96,13 @@
             </div>
             <a href="https://www.artbykamahl.com/" class="student_business_btn">Visit</a>
         </div>
-
+<!--
+        <div class="student_business_desc_container">
+            <div class= "student_dec_info">
+            <p>I am an artist, and I create art under my business Art by Kamahl. I paint portraits and other paintings for original and commissions, as well as selling prints.</p> 
+             </div>
+        </div>
+</div>-->
         <div class="student_business_container">
             <div class="student_business_info">
                 <h3>Kieren Freeman Productions</h3>
@@ -88,6 +111,14 @@
             </div>
             <a href="kierenfreemanproductions.weebly.com/" class="student_business_btn">Visit</a>
         </div>
+<!--
+        <div class="student_business_desc_container">
+            <div class= "student_dec_info">
+            <p>My creative talents revolve around filmmaking, writing, and cartoon-style artwork. My two latest short films I directed and wrote are first-place, film festival winners. My webcomic combines my art and writing to tell a story, and it's currently being adapted into my debut novel. My novel is in its final steps of completion. All of these creative projects are held under the self-made production company and website: Kieren Freeman Productions. Once my book is published, along with other books and even merchandise in the near future, it will be displayed on the website alongside my other films and artwork.</p>
+             </div>
+        </div> 
+
+</div>-->
 
         <div class="student_business_container">
             <div class="student_business_info">
@@ -106,7 +137,7 @@
             </div>
 
         </div>
-     
+
 
 
 
