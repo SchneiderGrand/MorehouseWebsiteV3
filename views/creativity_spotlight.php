@@ -29,7 +29,7 @@
                 <h3>David Coleman</h3>
             </div>
             <div class="developer dev_middle">
-                <img src="../images/local-file-not-found-480x488.png"/>
+                <img src="../images/schneidergrandpierre.jpg"/>
                 <h3>Schneider Grandpierre</h3>
             </div>
         </div>
