@@ -127,6 +127,20 @@
 
         <div class="student_business_container">
             <div class="student_business_info">
+                <h3>Visinry (Jaden Perpignan)</h3>
+                <h4>https://linktr.ee/visinry</h4>
+                <p> Instagram: @visinry</p>
+            </div>
+            <a href="https://bukasapparel.com" class="student_business_btn">Visit</a>
+        </div>
+
+
+
+
+
+
+        <div class="student_business_container">
+            <div class="student_business_info">
                 <h3>Miles Edgeworth (Aaron)</h3>
                 <h4>Photography/Film/Poetry</h4>
                 <p> Instagram: @teddywiththe35mm</p>
